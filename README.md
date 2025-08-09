@@ -1,8 +1,10 @@
-# 👋 Hi, I'm Pritam Mundhe  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pritamundhe/pritamundhe/main/name.svg" alt="Pritam M." />
+</p>
+
 
 🎓 Final Year Computer Engineering Student | 💡 High-Frequency Trading Enthusiast | 🤖 AI & RPA Developer  
 
----
 
 ## 🚀 About Me  
 - 🏆 Competitive Programming: Codeforces, LeetCode, CodeChef  
