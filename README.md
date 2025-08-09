@@ -4,7 +4,11 @@
 
 <!-- Komarev profile views -->
 ![Profile views](https://komarev.com/ghpvc/?username=pritamundhe&label=Profile%20Views&color=0e75b6&style=flat)
-
+[![CodeChef Rating](https://img.shields.io/badge/CodeChef-pritamundhe-orange)](https://www.codechef.com/users/pritamundhe)
+[![AtCoder Rating](https://img.shields.io/badge/AtCoder-pritamundhe-6f42c1)](https://atcoder.jp/users/pritamundhe)
+[![HackerRank](https://img.shields.io/badge/HackerRank-pritamundhe-2ea44f)](https://www.hackerrank.com/pritamundhe)
+[![SPOJ](https://img.shields.io/badge/SPOJ-pritamundhe-0078d7)](https://www.spoj.com/users/pritamundhe)
+[![Hackerearth](https://img.shields.io/badge/HackerEarth-pritamundhe-323232)](https://www.hackerearth.com/@pritamundhe)
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=pritamundhe&theme=tokyo-night)  
 
@@ -13,10 +17,7 @@
 ## 💻 Coding Profiles & Stats
 
 [![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=pritamundhe&theme=dark)](https://leetcode.com/pritamundhe)
-[![CodeChef Rating](https://img.shields.io/badge/CodeChef-pritamundhe-orange)](https://www.codechef.com/users/pritamundhe)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pritamundhe&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pritamundhe&layout=compact&theme=dark)
 
 
 
