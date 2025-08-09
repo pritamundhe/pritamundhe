@@ -13,7 +13,6 @@
 ## 💻 Coding Profiles & Stats
 
 [![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=pritamundhe&theme=dark)](https://leetcode.com/pritamundhe)
-[![Codeforces Rating](https://codeforces-badges.vercel.app/api/user?user=pritamundhe)](https://codeforces.com/profile/pritamundhe)
 [![CodeChef Rating](https://img.shields.io/badge/CodeChef-pritamundhe-orange)](https://www.codechef.com/users/pritamundhe)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pritamundhe&show_icons=true&theme=dark)
