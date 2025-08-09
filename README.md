@@ -16,5 +16,5 @@
 
 ## Skills & Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,reactnative,nodejs,express,mongodb,tailwind,git,linux" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,js,react,tailwind,nodejs,express,mysql,mongodb,git,linux" />
 </p>
