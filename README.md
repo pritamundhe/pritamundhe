@@ -15,28 +15,10 @@
 [![Hackerearth](https://img.shields.io/badge/Leetcode-pritamundhe-blue)](https://www.leetcode.com/@pritamundhe)
 
 
-<p align="center">
-  <a href="https://leetcode.com/pritamundhe" target="_blank" rel="noopener noreferrer">
-    <img src="https://leetcode-stats.vercel.app/api?username=pritamundhe&theme=dark&width=390" alt="LeetCode Stats" />
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=pritamundhe&show_icons=true&theme=dark&width=400">
-</p>
-
-
-
-
-
-## 🛠️ Skills & Tools  
+## Skills & Tools  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,react,reactnative,nodejs,express,mongodb,tailwind,git,linux" />
 </p>
 
-
-## 📬 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-PritamMundhe-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange)](https://yourportfolio.com)  
-[![Email](https://img.shields.io/badge/Email-pritam@example.com-red?logo=gmail)](mailto:pritam@example.com)  
-
-
-## ⏳ Coding Time Tracker  
+## Coding Time Tracker  
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=pritamundhe&theme=tokyonight)
