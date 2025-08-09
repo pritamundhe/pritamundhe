@@ -2,6 +2,9 @@
   <img src="https://raw.githubusercontent.com/pritamundhe/pritamundhe/main/name.svg" alt="Pritam M." />
 </p>
 
+<!-- Komarev profile views -->
+![Profile views](https://komarev.com/ghpvc/?username=pritamundhe&label=Profile%20Views&color=0e75b6&style=flat)
+
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=pritamundhe&theme=tokyo-night)  
 
