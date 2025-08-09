@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/pritamundhe" target="_blank" rel="noopener noreferrer">
-    <img src="https://leetcode-stats.vercel.app/api?username=pritamundhe&theme=dark&width=400" alt="LeetCode Stats" />
+    <img src="https://leetcode-stats.vercel.app/api?username=pritamundhe&theme=dark&width=390" alt="LeetCode Stats" />
   </a>
   <img src="https://github-readme-stats.vercel.app/api?username=pritamundhe&show_icons=true&theme=dark&width=400">
 </p>
