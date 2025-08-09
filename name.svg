@@ -1,59 +1,86 @@
 <svg fill="none" viewBox="0 0 800 120" width="800" height="120" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
-			<style>
-				@keyframes gradientText {
-				  0% { background-position: 0% 50%; }
-				  50% { background-position: 100% 50%; }
-				  100% { background-position: 0% 50%; }
-				}
-				h1 {
-				  font-family: 'Inter', sans-serif;
-				  margin: 0;
-				  font-size: 4em;
-				  font-weight: 900;
-				  letter-spacing: -0.05em;
-				  text-align: center;
-				  background: linear-gradient(270deg, #ff004c, #ff9a00, #00c3ff, #3828ca, #ff004c);
-				  background-size: 400%;
-				  background-clip: text;
-				  -webkit-background-clip: text;
-				  -webkit-text-fill-color: transparent;
-				  animation: gradientText 6s ease infinite;
-				  text-shadow: 0px 0px 8px rgba(255,255,255,0.2);
-				}
-				@keyframes snowflakes-fall { 0% { top: -10% } 100% { top: 100% } }
-				@keyframes snowflakes-shake { 0%, 100% { transform: translateX(0px) } 50% { transform: translateX(80px) } }
-				.snowflake {
-				  position: fixed;
-				  top: -10%;
-				  z-index: 9999;
-				  user-select: none;
-				  animation-name: snowflakes-fall, snowflakes-shake;
-				  animation-duration: 10s, 3s;
-				  animation-timing-function: linear, ease-in-out;
-				  animation-iteration-count: infinite, infinite;
-				  animation-play-state: running, running;
-				  color: #fff;
-				  font-size: 1.5em;
-				  text-shadow: 0 0 5px #000;
-				}
-				.snowflake:nth-of-type(1) { left: 5%; animation-delay: 0s, 0s; }
-				.snowflake:nth-of-type(2) { left: 15%; animation-delay: 2s, 1s; }
-				.snowflake:nth-of-type(3) { left: 25%; animation-delay: 4s, 0.5s; }
-				.snowflake:nth-of-type(4) { left: 40%; animation-delay: 1s, 2s; }
-				.snowflake:nth-of-type(5) { left: 55%; animation-delay: 3s, 1.5s; }
-				.snowflake:nth-of-type(6) { left: 70%; animation-delay: 5s, 0s; }
-				.snowflake:nth-of-type(7) { left: 85%; animation-delay: 7s, 2.5s; }
-			</style>
-			<h1>Pritam M.</h1>
-			<div class="snowflake">❄</div>
-			<div class="snowflake">✻</div>
-			<div class="snowflake">❅</div>
-			<div class="snowflake">❆</div>
-			<div class="snowflake">✼</div>
-			<div class="snowflake">❄</div>
-			<div class="snowflake">✻</div>
-		</div>
-	</foreignObject>
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @keyframes gradientText {
+          0% { background-position: 0% 50%; }
+          50% { background-position: 100% 50%; }
+          100% { background-position: 0% 50%; }
+        }
+        @keyframes blink {
+          0%, 50% { border-color: rgba(255,255,255,0.75); }
+          51%, 100% { border-color: transparent; }
+        }
+        @keyframes words {
+		  0%, 25% { content: "Pritam M."}
+          26%, 50% { content: "Developer"; }
+          51%, 75% { content: "Designer"; }
+          76%, 100% { content: "Coder"; }
+        }
+        .container {
+          width: 100%;
+          height: 100%;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+        }
+        h1 {
+          font-family: 'Inter', sans-serif;
+          margin: 0;
+          font-size: 4em;
+          font-weight: 900;
+          letter-spacing: -0.05em;
+          background: linear-gradient(270deg, #ff004c, #ff9a00, #00c3ff, #3828ca, #ff004c);
+          background-size: 400%;
+          background-clip: text;
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+          animation: gradientText 6s ease infinite, blink 0.7s step-end infinite;
+          white-space: nowrap;
+          overflow: hidden;
+          border-right: 3px solid;
+          border-color: rgba(255,255,255,0.75);
+        }
+        .typing::after {
+          content: "Pritam M.";
+          animation: words 6s infinite;
+        }
+        /* Snow animation */
+        @keyframes snowflakes-fall { 0% { top: -10% } 100% { top: 100% } }
+        @keyframes snowflakes-shake { 0%, 100% { transform: translateX(0px) } 50% { transform: translateX(80px) } }
+        .snowflake {
+          position: fixed;
+          top: -10%;
+          z-index: 9999;
+          user-select: none;
+          animation-name: snowflakes-fall, snowflakes-shake;
+          animation-duration: 10s, 3s;
+          animation-timing-function: linear, ease-in-out;
+          animation-iteration-count: infinite, infinite;
+          color: #fff;
+          font-size: 1.5em;
+          text-shadow: 0 0 5px #000;
+        }
+        .snowflake:nth-of-type(1) { left: 5%; animation-delay: 0s, 0s; }
+        .snowflake:nth-of-type(2) { left: 15%; animation-delay: 2s, 1s; }
+        .snowflake:nth-of-type(3) { left: 25%; animation-delay: 4s, 0.5s; }
+        .snowflake:nth-of-type(4) { left: 40%; animation-delay: 1s, 2s; }
+        .snowflake:nth-of-type(5) { left: 55%; animation-delay: 3s, 1.5s; }
+        .snowflake:nth-of-type(6) { left: 70%; animation-delay: 5s, 0s; }
+        .snowflake:nth-of-type(7) { left: 85%; animation-delay: 7s, 2.5s; }
+      </style>
+
+      <div class="container">
+        <h1 class="typing"></h1>
+      </div>
+
+      <div class="snowflake">❄</div>
+      <div class="snowflake">✻</div>
+      <div class="snowflake">❅</div>
+      <div class="snowflake">❆</div>
+      <div class="snowflake">✼</div>
+      <div class="snowflake">❄</div>
+      <div class="snowflake">✻</div>
+    </div>
+  </foreignObject>
 </svg>
