@@ -11,7 +11,6 @@
 [![AtCoder Rating](https://img.shields.io/badge/AtCoder-pritamundhe-6f42c1)](https://atcoder.jp/users/pritamundhe)
 [![HackerRank](https://img.shields.io/badge/HackerRank-pritamundhe-2ea44f)](https://www.hackerrank.com/pritamundhe)
 [![SPOJ](https://img.shields.io/badge/SPOJ-pritamundhe-0078d7)](https://www.spoj.com/users/pritamundhe)
-[![Hackerearth](https://img.shields.io/badge/HackerEarth-pritamundhe-323232)](https://www.hackerearth.com/@pritamundhe)
 [![Hackerearth](https://img.shields.io/badge/Leetcode-pritamundhe-blue)](https://www.leetcode.com/@pritamundhe)
 
 
@@ -19,6 +18,3 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,react,reactnative,nodejs,express,mongodb,tailwind,git,linux" />
 </p>
-
-## Coding Time Tracker  
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=pritamundhe&theme=tokyonight)
