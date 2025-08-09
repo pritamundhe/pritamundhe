@@ -3,14 +3,7 @@
 </p>
 
 
-🎓 Final Year Computer Engineering Student | 💡 High-Frequency Trading Enthusiast | 🤖 AI & RPA Developer  
-
-
-## 🚀 About Me  
-- 🏆 Competitive Programming: Codeforces, LeetCode, CodeChef  
-- 📊 Projects: AI & RPA Automation, News Platform, English Tutor App  
-- 💻 Tech Stack: C++, Python, JavaScript, MERN, Tailwind, React Native  
-- 📈 Career Goal: Software Engineer at HFT Firms (Jane Street, HRT, Optiver)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=pritamundhe&theme=tokyo-night)  
 
 ---
 
@@ -24,10 +17,7 @@
 </div>
 
 
-## 📈 Contribution Graph  
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=pritamundhe&theme=tokyo-night)  
 
----
 
 ## 🛠️ Skills & Tools  
 <p align="left">
