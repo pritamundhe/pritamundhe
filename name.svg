@@ -38,8 +38,6 @@
           animation: gradientText 6s ease infinite, blink 0.7s step-end infinite;
           white-space: nowrap;
           overflow: hidden;
-          border-right: 3px solid;
-          border-color: rgba(255,255,255,0.75);
         }
         .typing::after {
           content: "Pritam M.";
