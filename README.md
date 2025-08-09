@@ -10,14 +10,15 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 💻 Coding Profiles & Stats
 
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=pritamundhe&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritamundhe&layout=compact&theme=tokyonight" height="165">
-  
-</div>
+[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=pritamundhe&theme=dark)](https://leetcode.com/pritamundhe)
+[![Codeforces Rating](https://codeforces-badges.vercel.app/api/user?user=pritamundhe)](https://codeforces.com/profile/pritamundhe)
+[![CodeChef Rating](https://img.shields.io/badge/CodeChef-pritamundhe-orange)](https://www.codechef.com/users/pritamundhe)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pritamundhe&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pritamundhe&layout=compact&theme=dark)
+
 
 
 
