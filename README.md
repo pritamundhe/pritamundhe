@@ -13,11 +13,14 @@
 ---
 
 ## 📊 GitHub Stats  
-![Pritam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pritamundhe&show_icons=true&theme=tokyonight)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pritamundhe&layout=compact&theme=tokyonight)  
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=pritamundhe&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritamundhe&layout=compact&theme=tokyonight" height="165">
+  
+</div>
 
----
 
 ## 📈 Contribution Graph  
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=pritamundhe&theme=tokyo-night)  
