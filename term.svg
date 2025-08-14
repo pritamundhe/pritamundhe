@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="2100" height="120" viewBox="0 0 2100 120">
   <style>
     .terminal-bg { fill: #131313; }
-    .terminal-text { font-family: monospace; font-size: 16px; }
+    .terminal-text { font-family: monospace; font-size: 24px; }
     .prompt { fill: #50fa7b; }
     .command { fill: #f8f8f2; }
     @keyframes typing {
@@ -22,3 +22,4 @@
     <tspan class="command typing"> ./bin/run_lowlatency_engine --mode live --feed eth0 --optimize true &amp;&amp; tail -n 500 /var/log/engine/trades.log | grep -E "EXECUTED|REJECT"</tspan>
   </text>
 </svg>
+
