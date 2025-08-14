@@ -1,25 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="980" height="50" viewBox="0 0 980 620">
+<svg xmlns="http://www.w3.org/2000/svg" width="2100" height="120" viewBox="0 0 2100 120">
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
     .terminal-bg { fill: #131313; }
-    .prompt { fill: #50fa7b; font-family: 'JetBrains Mono', monospace; font-size: 16px; }
-    .command { fill: #f8f8f2; font-family: 'JetBrains Mono', monospace; font-size: 16px; }
+    .terminal-text { font-family: monospace; font-size: 16px; }
+    .prompt { fill: #50fa7b; }
+    .command { fill: #f8f8f2; }
     @keyframes typing {
       0% { clip-path: inset(0 100% 0 0); }
-      50% { clip-path: inset(0 0 0 0); }
-      100% { clip-path: inset(0 100% 0 0); }
+      100% { clip-path: inset(0 0 0 0); }
     }
     .typing {
-      animation: typing 6s steps(40, end) infinite;
+      animation: typing 3s steps(142, end) infinite alternate;
       white-space: nowrap;
-      overflow: hidden;
     }
   </style>
 
-  <rect class="terminal-bg" x="10" y="8" width="960" height="600" rx="8"/>
+  <rect class="terminal-bg" x="0" y="0" width="2100" height="120" rx="8"/>
 
-  <!-- Nonstop typing effect -->
-  <text x="40" y="100" class="prompt">pritam@trade:~$ 
-    <tspan class="command typing">echo "Pritam | Email: pritam@example.com | I build awesome stuff"</tspan>
+  <!-- Single text line: zero gap between prompt and command -->
+  <text x="20" y="70" class="terminal-text">
+    <tspan class="prompt">pritam@trade:~$</tspan><tspan class="command typing"> ./bin/run_lowlatency_engine --mode live --feed eth0 --optimize true && tail -n 500 /var/log/engine/trades.log | grep -E "EXECUTED|REJECT"</tspan>
   </text>
 </svg>
