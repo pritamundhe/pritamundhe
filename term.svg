@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2100" height="120" viewBox="0 0 2100 120">
+  <style>
+    .terminal-bg { fill: #131313; }
+    .terminal-text { font-family: monospace; font-size: 16px; }
+    .prompt { fill: #50fa7b; }
+    .command { fill: #f8f8f2; }
+    @keyframes typing {
+      0% { clip-path: inset(0 100% 0 0); }
+      100% { clip-path: inset(0 0 0 0); }
+    }
+    .typing {
+      animation: typing 3s steps(142, end) infinite alternate;
+      white-space: nowrap;
+    }
+  </style>
+
+  <rect class="terminal-bg" x="0" y="0" width="2100" height="120" rx="8"/>
+
+  <!-- Single text line: zero gap between prompt and command -->
+  <text x="20" y="70" class="terminal-text">
+    <tspan class="prompt">pritam@trade:~$</tspan>
+    <tspan class="command typing"> ./bin/run_lowlatency_engine --mode live --feed eth0 --optimize true &amp;&amp; tail -n 500 /var/log/engine/trades.log | grep -E "EXECUTED|REJECT"</tspan>
+  </text>
+</svg>
