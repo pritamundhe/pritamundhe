@@ -18,3 +18,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,js,react,tailwind,nodejs,express,mysql,mongodb,git,linux" />
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pritamundhe/pritamundhe/main/term.svg" alt="Terminal Animation" />
+</p>
