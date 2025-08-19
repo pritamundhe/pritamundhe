@@ -3,13 +3,13 @@
 </p>
 
 <!-- Komarev profile views -->
-![Profile views](https://komarev.com/ghpvc/?username=pritamundhe&label=Profile%20Views&color=0e75b6&style=flat)
+## 🚀 Currently Working On <img align="right" src="https://komarev.com/ghpvc/?username=pritamundhe&label=Profile%20Views&color=0e75b6&style=flat" />
 
-## 🚀 Currently Working On
 - ⚡ **High-Frequency Trading (HFT) Algorithms**  
   -  Building **Order Book Simulators**  
   -  Designing **Backtesting Frameworks**  
   -  Implementing **Low-Latency in C++20**  
+ 
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=pritamundhe&theme=tokyo-night)  
 [![CodeChef Rating](https://img.shields.io/badge/CodeChef-pritamundhe-orange)](https://www.codechef.com/users/pritamundhe)
