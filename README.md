@@ -11,6 +11,8 @@
   -  Implementing **Low-Latency in C++20**  
 
 
+![Pritam's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pritamundhe&bg_color=0d1117&color=ffffff&line=5bcdec&point=ffffff&area=true&hide_border=true)
+
 ## Skills & Tools  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,js,react,tailwind,nodejs,express,mysql,mongodb,git,linux" />
