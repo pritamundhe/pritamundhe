@@ -9,14 +9,6 @@
   -  Building **Order Book Simulators**  
   -  Designing **Backtesting Frameworks**  
   -  Implementing **Low-Latency in C++20**  
- 
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=pritamundhe&theme=tokyo-night)  
-[![CodeChef Rating](https://img.shields.io/badge/CodeChef-pritamundhe-orange)](https://www.codechef.com/users/pritamundhe)
-[![AtCoder Rating](https://img.shields.io/badge/AtCoder-pritamundhe-6f42c1)](https://atcoder.jp/users/pritamundhe)
-[![HackerRank](https://img.shields.io/badge/HackerRank-pritamundhe-2ea44f)](https://www.hackerrank.com/pritamundhe)
-[![SPOJ](https://img.shields.io/badge/SPOJ-pritamundhe-0078d7)](https://www.spoj.com/users/pritamundhe)
-[![Hackerearth](https://img.shields.io/badge/Leetcode-pritamundhe-blue)](https://www.leetcode.com/@pritamundhe)
 
 
 ## Skills & Tools  
