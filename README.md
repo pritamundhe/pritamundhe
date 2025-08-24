@@ -8,7 +8,6 @@
 - ⚡ **High-Frequency Trading (HFT) Algorithms**  
   -  Building **Order Book Simulators**  
   -  Designing **Backtesting Frameworks**  
-  -  Implementing **Low-Latency in C++20**  
 
 
 ![Pritam's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pritamundhe&bg_color=0d1117&color=ffffff&line=5bcdec&point=ffffff&area=true&hide_border=true)
