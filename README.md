@@ -11,7 +11,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pritamundhe&theme=algolia&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Pritam's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pritamundhe&bg_color=0d1117&color=ffffff&line=5bcdec&point=ffffff&area=true&hide_border=true)
+![Pritam's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pritamundhe&bg_color=0d1117&color=ffffff&line=5bcdec&point=ffffff&area=true&hide_border=false)
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,js,react,tailwind,nodejs,express,mysql,mongodb,git,linux" />
