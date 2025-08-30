@@ -2,6 +2,8 @@
   <img src="https://raw.githubusercontent.com/pritamundhe/pritamundhe/main/name.svg" alt="Pritam M." />
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=pritamundhe&theme=algolia&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!-- Komarev profile views -->
 ## 🚀 Currently Working On <img align="right" src="https://komarev.com/ghpvc/?username=pritamundhe&label=Profile%20Views&color=0e75b6&style=flat" />
 
