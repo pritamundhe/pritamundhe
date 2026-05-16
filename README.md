@@ -13,7 +13,7 @@
 ![Pritam's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pritamundhe&bg_color=0d1117&color=ffffff&line=5bcdec&point=ffffff&area=true&hide_border=false)
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,react,tailwind,nodejs,express,mysql,mongodb,git" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,mongodb,sklearn,tensorflow,pytorch,fastapi,flask,docker,gcp,azure,git,github" />
 </p>
 
 <p align="center">
