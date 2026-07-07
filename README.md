@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pritamundhe/pritamundhe/main/name.svg" alt="Pritam Mundhe" />
+  <img src="https://raw.githubusercontent.com/pritamundhe/pritamundhe/main/name.svg" alt="Pritam Mundhe." />
 </p>
 
 
