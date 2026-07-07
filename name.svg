@@ -12,8 +12,8 @@
           51%, 100% { border-color: transparent; }
         }
         @keyframes words {
-		  0%, 25% { content: "Pritam M."}
-          26%, 50% { content: "Developer"; }
+		  0%, 25% { content: "Pritam Mundhe"}
+          26%, 50% { content: "Engineer"; }
           51%, 75% { content: "Designer"; }
           76%, 100% { content: "Coder"; }
         }
